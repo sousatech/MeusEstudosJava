@@ -1,7 +1,7 @@
 package cursoJavaWeb.classes;
 
 public class Aluno {
-	// atributos do aluno
+	/* atributos do aluno*/
 	private String nome;
 	private int idade;
 	private String dataNaciemnto;
